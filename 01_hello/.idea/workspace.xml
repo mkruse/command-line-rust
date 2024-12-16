@@ -7,10 +7,8 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9666cce8-afdf-42cb-b182-61582aa9bf6d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bin/false.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bin/true.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/cli.rs" afterDir="false" />
+    <list default="true" id="9666cce8-afdf-42cb-b182-61582aa9bf6d" name="Changes" comment="Chapter 1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,11 +114,24 @@
       <option name="presentableId" value="Default" />
       <updated>1734219884489</updated>
       <workItem from="1734219885543" duration="691000" />
-      <workItem from="1734220584309" duration="1432000" />
+      <workItem from="1734220584309" duration="2669000" />
     </task>
+    <task id="LOCAL-00001" summary="Chapter 1">
+      <option name="closed" value="true" />
+      <created>1734222196900</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734222196900</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Chapter 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 1" />
   </component>
 </project>
